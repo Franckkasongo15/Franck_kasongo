@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/network.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = " Carrière professionnelle ";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Passionné par le développement web et étudiant en administration système et réseaux, je mets en pratique mes compétences techniques pour créer des expériences en ligne exceptionnelles. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
